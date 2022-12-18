@@ -18,7 +18,7 @@
  
 <div> 
  
-  svg_out_path: dist/github-contribution-grid-snake.svg
+  ![Snake animation](https://github.com/rafaballerini/igorkaynan/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
