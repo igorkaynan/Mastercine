@@ -18,7 +18,7 @@
  
 <div> 
  
-  ![Snake animation](https://gith
+  svg_out_path: dist/github-contribution-grid-snake.svg
  
 </div>
 
