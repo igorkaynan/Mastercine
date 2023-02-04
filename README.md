@@ -9,8 +9,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorkaynan&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?igorkaynan= &theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
  
+  
+  
+  
+  
+  
+  
 <div> 
  
   ![Snake animation](https://github.com/igorkaynan/igorkaynan/blob/output/github-contribution-grid-snake.svg)
