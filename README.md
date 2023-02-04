@@ -11,7 +11,7 @@
     <img align="center" alt="igor.js" height="40" width="90" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
-![Snake animation] (https://github.com/igorkaynan/igorkaynan/blog/output/github-contribution-grid-snake.svg);
+![Snake animation](https://github.com/igorkaynan/igorkaynan/blog/output/github-contribution-grid-snake.svg);
 
 <!--- igorkaynan/igorkaynan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
