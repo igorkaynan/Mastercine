@@ -4,7 +4,7 @@
 
 
 <div style = "display:inline-block;"><br>
-  	<img align="center" alt="igor.js" height="70" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  	<img align="center" alt="igor.js" height="70" width="150" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </dvi>
 
 
