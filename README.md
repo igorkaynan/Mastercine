@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorkaynan&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?igorkaynan= &theme=radical)
  
 <div> 
  
